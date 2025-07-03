@@ -1,0 +1,16 @@
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# JSON data file
+events.json
