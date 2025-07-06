@@ -73,6 +73,6 @@ Copy the `https://xxxxx.ngrok.io` URL and open on browser.
 - Save
 
 ### ✍️ Author
-Made with 💻 by Mukesh Prajapati for the Developer Assessment Task.
+Made with 💻 by Mukesh Prajapati.
 
 > “Webhook. Watch. Wow.” 🚀
